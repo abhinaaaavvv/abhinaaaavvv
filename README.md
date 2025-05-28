@@ -20,8 +20,8 @@ Big fan of clean code, beautiful design, and caffeinated sprints.
  
  **Frameworks, Platforms & Libraries**
  
- <img alt="reactjs" width="30px" src="/Assets/React.png"/>|<img alt="nodejs" width="30px" src="/Assets/Node.js.png"/>|<img alt="nextjs" width="30px" src="/Assets/img.icons8.png"/>|<img alt="expressjs" width="30px" src="/Assets/Express.png"/>|<img alt="tailwindcss" width="30px" src="/Assets/Tailwind CSS.png"/>|<img alt="redux" width="30px" src="/Assets/redux.png"/>
- |--|--|--|--|--|--|
+ <img alt="reactjs" width="30px" src="/Assets/React.png"/>|<img alt="nodejs" width="30px" src="/Assets/Node.js.png"/>|<img alt="nextjs" width="30px" src="/Assets/img.icons8.png"/>|<img alt="expressjs" width="30px" src="/Assets/Express.png"/>|<img alt="tailwindcss" width="30px" src="/Assets/Tailwind CSS.png"/>|<img alt="redux" width="30px" src="/Assets/redux.png"/>|<img alt="npm" width="30px" src="/Assets/npm-icon-2048x2048-8sw7kisf.png"/>
+ |--|--|--|--|--|--|--|
 
  **MERN Stack**
 
@@ -30,14 +30,14 @@ Big fan of clean code, beautiful design, and caffeinated sprints.
 
 **Databases/ORM**
  
- <img alt="mongodb" width="30px" src="/Assets/MongoDB.png"/>|<img alt="prisma" width="30px" src="/Assets/file-type-prisma-icon-210x256-v7xrnm1k.png"/>|<img alt="mysql" width="30px" src="/Assets/MySQL.png"/>|<img alt="supabase" width="30px" src="/Assets/655b60964be1a1b36c746d41_646dfce3b9c4849f6e401bff_supabase-logo-icon_1.png"/>
- |--|--|--|--|
+ <img alt="mongodb" width="30px" src="/Assets/MongoDB.png"/>|<img alt="prisma" width="30px" src="/Assets/file-type-prisma-icon-210x256-v7xrnm1k.png"/>|<img alt="supabase" width="30px" src="/Assets/655b60964be1a1b36c746d41_646dfce3b9c4849f6e401bff_supabase-logo-icon_1.png"/>
+ |--|--|--|
  
  **Hosting/SaaS**
   <img align='right' src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
 
- <img alt="vercel" width="30px" src="/Assets/Vercel.png"/>|<img alt="hostinger" width="30px" src="/Assets/3447-9409-logo.webp"/>|<img alt="streamlit" width="30px" src="/Assets/streamlit-logo-png_seeklogo-441815.png"/>
- |--|--|--|
+ <img alt="vercel" width="30px" src="/Assets/Vercel.png"/>|<img alt="hostinger" width="30px" src="/Assets/3447-9409-logo.webp"/>
+ |--|--|
 
  **Tools**
  
