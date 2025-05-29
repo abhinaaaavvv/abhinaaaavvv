@@ -41,7 +41,7 @@ Big fan of clean code, beautiful design, and caffeinated sprints.
 
  **Tools**
  
- <img alt="VSCode" width="30px" src="/Assets/Visual Studio Code (VS Code).png"/>|<img alt="cursor" width="30px" src="/Assets/cursor.png"/>|<img alt="figma" width="30px" src="/Assets/Figma.png"/>|<img alt="Git" width="30px" src="/Assets/Git.png"/>
+ <img alt="VSCode" width="30px" src="/Assets/Visual Studio Code (VS Code).png"/>|<img alt="cursor" width="30px" src="/Assets/cursor.png"/>|<img alt="figma" width="30px" src="/Assets/Figma.png"/>|<img alt="docker" width="30px" src="/Assets/97_Docker_logo_logos-512.webp"/>
  |--|--|--|--|
  
  
