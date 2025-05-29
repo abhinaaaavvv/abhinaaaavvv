@@ -20,7 +20,7 @@ Big fan of clean code, beautiful design, and caffeinated sprints.
  
  **Frameworks, Platforms & Libraries**
  
- <img alt="reactjs" width="30px" src="/Assets/React.png"/>|<img alt="nodejs" width="30px" src="/Assets/Node.js.png"/>|<img alt="nextjs" width="30px" src="/Assets/img.icons8.png"/>|<img alt="expressjs" width="30px" src="/Assets/Express.png"/>|<img alt="tailwindcss" width="30px" src="/Assets/Tailwind CSS.png"/>|<img alt="redux" width="30px" src="/Assets/redux.png"/>|<img alt="npm" width="30px" src="/Assets/NPM.png"/>
+ <img alt="reactjs" width="30px" src="/Assets/React.png"/>|<img alt="nodejs" width="30px" src="/Assets/Node.js.png"/>|<img alt="npm" width="30px" src="/Assets/NPM.png"/>|<img alt="nextjs" width="30px" src="/Assets/img.icons8.png"/>|<img alt="expressjs" width="30px" src="/Assets/Express.png"/>|<img alt="tailwindcss" width="30px" src="/Assets/Tailwind CSS.png"/>|<img alt="redux" width="30px" src="/Assets/redux.png"/>
  |--|--|--|--|--|--|--|
 
  **MERN Stack**
