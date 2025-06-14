@@ -52,4 +52,4 @@ Big fan of clean code, beautiful design, and caffeinated sprints.
 
 ---
  
-[<img align="left" alt="Twitter - Abhinav.S" width="30px" src="/Assets/twitterx--v2.png" />](https://x.com/abhinaaaavvv) [<img align="left" alt="Instagram - Abhinav.S" width="30px" src="/Assets/Instagram_icon.png" />](https://www.instagram.com/ft.abhinaaaavvv) [<img align="left" alt="LinkedIn - Abhinav.S" width="30px" src="/Assets/LinkedIn_icon.svg.webp" />](https://www.linkedin.com/in/abhinaaaavvv)[<img align="left" alt="Email - Abhinav.S" width="30px" src="/Assets/Gmail_icon_(2020).svg.png" />](mailto:abhi.sarkar.anu@gmail.com)
+[<img align="left" alt="Twitter - Abhinav.S" width="30px" src="/Assets/twitterx--v2.png" />](https://x.com/abhinaaaavvv) [<img align="left" alt="Instagram - Abhinav.S" width="30px" src="/Assets/Instagram_icon.png" />](https://www.instagram.com/ft.abhinaaaavvv) [<img align="left" alt="LinkedIn - Abhinav.S" width="30px" src="/Assets/LinkedIn_icon.svg.webp" />](https://www.linkedin.com/in/abhi-sarkar-499149366/)[<img align="left" alt="Email - Abhinav.S" width="30px" src="/Assets/Gmail_icon_(2020).svg.png" />](mailto:abhi.sarkar.anu@gmail.com)
