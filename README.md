@@ -30,8 +30,8 @@ Big fan of clean code, beautiful design, and caffeinated sprints.
 
 **Databases/ORM**
  
- <img alt="mongodb" width="30px" src="/Assets/MongoDB.png"/>|<img alt="prisma" width="30px" src="/Assets/file-type-prisma-icon-210x256-v7xrnm1k.png"/>|<img alt="supabase" width="30px" src="/Assets/655b60964be1a1b36c746d41_646dfce3b9c4849f6e401bff_supabase-logo-icon_1.png"/>
- |--|--|--|
+ <img alt="mongodb" width="30px" src="/Assets/MongoDB.png"/>|<img alt="supabase" width="30px" src="/Assets/655b60964be1a1b36c746d41_646dfce3b9c4849f6e401bff_supabase-logo-icon_1.png"/>
+ |--|--|
  
  **Hosting/SaaS**
   <img align='right' src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
@@ -52,4 +52,4 @@ Big fan of clean code, beautiful design, and caffeinated sprints.
 
 ---
  
-[<img align="left" alt="Twitter - Abhinav.S" width="30px" src="/Assets/twitterx--v2.png" />](https://x.com/abhinaaaavvv) [<img align="left" alt="Instagram - Abhinav.S" width="30px" src="/Assets/Instagram_icon.png" />](https://www.instagram.com/ft.abhinaaaavvv) [<img align="left" alt="LinkedIn - Abhinav.S" width="30px" src="/Assets/LinkedIn_icon.svg.webp" />](https://www.linkedin.com/in/abhi-sarkar-499149366/)[<img align="left" alt="Email - Abhinav.S" width="30px" src="/Assets/Gmail_icon_(2020).svg.png" />](mailto:abhi.sarkar.anu@gmail.com)
+[<img align="left" alt="Discord - abhinaaaavvv" width="30px" src="/Assets/discord.png" />](https://www.instagram.com/ft.abhinaaaavvv)[<img align="left" alt="Instagram - ft.abhinaaaavvv" width="30px" src="/Assets/Instagram_icon.png" />](https://www.instagram.com/ft.abhinaaaavvv) [<img align="left" alt="Twitter - Abhinav.S" width="30px" src="/Assets/twitterx--v2.png" />](https://x.com/abhinaaaavvv) [<img align="left" alt="LinkedIn - Abhinav.S" width="30px" src="/Assets/LinkedIn_icon.svg.webp" />](https://www.linkedin.com/in/abhi-sarkar-499149366/)[<img align="left" alt="Email - Abhinav.S" width="30px" src="/Assets/Gmail_icon_(2020).svg.png" />](mailto:abhi.sarkar.anu@gmail.com)
